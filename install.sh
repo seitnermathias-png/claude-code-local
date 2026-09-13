@@ -63,3 +63,4 @@ fi
 echo ""
 cd "$INSTALL_DIR"
 exec bash setup.sh
+
